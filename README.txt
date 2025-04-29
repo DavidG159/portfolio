@@ -1,3 +1,17 @@
+# My Developer Portfolio
+
+🚀 **Built with**: HTML5 UP's Hyperspace template + custom enhancements  
+🔧 **Skills Showcased**: HTML5, CSS3, JavaScript (DOM/ES6), Responsive Design  
+
+## About This Project
+- Used a **customized HTML5 UP template** as a foundation to focus on content over reinventing layouts.  
+- **Personalized** with my own projects, skills section, and contact form.  
+- **Key Customizations**:  
+  - Implemented functional contact form with Formspree.   
+  - Overhauled content to reflect my skills authentically.  
+- Will update with upcoming Projects
+======================================================================================================
+
 Hyperspace by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
